@@ -26,7 +26,7 @@ function Article(props){
 }
 
  
-
+ 
 function App() {
   const topics = [
     {id:1, title:'html',body:'html is .....'},
