@@ -27,7 +27,7 @@ function Nav(props){
       }}>{t.title}</a>
     </li>)
   }
-  return <nav>
+  return <nav> 
     <ol>
       {lis}
     </ol>
